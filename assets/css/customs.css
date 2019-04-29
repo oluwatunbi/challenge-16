@@ -1,0 +1,346 @@
+body,html{
+	margin-left:0px;
+	margin-right:0px;
+}
+
+.contact, .services{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+
+
+.section{
+	padding:0px 0px;
+}
+
+
+.navbar{
+	border-bottom:2px solid #000;
+	border-top: 1px solid #000;
+	padding:10px 0px 10px;
+}
+
+
+
+.navbar .navbar-brand >img {
+ margin-top: 0px;
+ 
+}
+
+.navbar-nav>.nav-item>.nav-link {
+    margin: 0px 0px;
+    color: #000 !important;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+#housebolt_logo{
+	margin-top:-30px;
+}
+
+
+.navbar{
+	min-height: 100px;
+	border-radius:0px;
+}
+
+.navbar-brand{
+	height:100px;
+	border-radius: 0px;
+}
+
+.page-carousel {
+  border-radius: 0px !important;
+  border: none !important;
+  width: 100%;
+}
+
+.carousel-inner>.carousel-item>img,
+.carousel-inner>.carousel-item>a>img {
+  border-radius: 0px;
+  box-shadow: 0 2px 2px rgba(204, 197, 185, 0.5);
+}
+
+.row .About .title{
+	text-align: center;
+	color:#fff;
+} 
+
+.About{
+	background-color:#2F303A;
+	text-align: center;
+	justify-content: center;
+	padding-bottom: 100px;
+
+}
+
+.About-us{
+	padding-top:50px;
+	padding-bottom: 100px;
+	color:#000;
+	justify-content: center;
+	text-align: center;
+	border-bottom:1px solid #000;
+	background-color:#ff6342;
+
+}
+
+.aboutus_page{
+	font-weight:bold;
+	text-align: center;
+	justify-content: center;
+}
+
+
+.img-nurse{
+	width: 100%;
+	height:70vh;
+	margin-top:10px; 
+}
+
+.overview-row{
+	margin-bottom: 10px;
+}
+.icon{
+	border-top:1px solid #000;
+	border-left:1px solid #000;
+	border-right:1px solid #000;
+	border-bottom:1px solid #000;
+	margin: 0px 0px 20px;
+	background-color:#F0FFFF;
+	position:relative;
+}
+
+.icon:hover{
+	-webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}
+
+.icon h4{
+	color:#000;
+	font-weight:bold; 
+}
+
+.card:hover {
+	transition: none;
+
+}
+
+
+.overview h3{
+	color:#000;
+	font-weight:bold;
+}
+
+.overview p{
+	font-weight:bold;
+
+}
+
+.overview #mybtn{
+	background-color:red;
+	color:#000;
+	font-weight:bold;
+	font-size:1em;
+	border:1px solid #000;
+	border-radius:4px;
+}
+
+.services h1{
+	font-weight:bold;
+	color:blue;
+	margin-top:-250px;
+	margin-left:50px;
+	margin-bottom:200px; 
+}
+.card {
+  border-radius: 12px;
+  box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.15);
+  background-color: #FFFFFF;
+  color: #333333;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 1;
+  border: 0 none;
+ 
+}
+
+.card:not(.card-plain):hover {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.3);
+  
+ 
+}
+
+.card.no-transition:hover,
+.card.page-carousel:hover,
+.card.card-refine:hover,
+.card.card-register:hover {
+  box-shadow: 0 6px 10px -4px rgba(0, 0, 0, 0.15);
+  transform: none;
+  -webkit-transform: none;
+  -ms-transform: none;
+  -moz-transform: none;
+}
+
+
+
+.OandG  #more{
+	display:none;
+}
+
+.paediatrics #more-paedo{
+	display:none;
+}
+
+.medicine #more-med{
+ 	display:none;
+}
+
+.surgery #more-sur{
+	display:none;
+}
+
+#mybtn-paedo, #mybtn-med, #mybtn-sur{
+	background-color:red;
+	color:#000;
+	font-weight:bold;
+	border:1px solid #000;  
+}
+
+
+#descField{
+	height:100px;
+}
+
+.form_color{
+	background-color:#dba6a6;
+}
+
+.btn-danger{
+	margin-bottom:10px;
+}
+
+.contact_link{
+	justify-content: end;
+}
+
+.contact_form{
+	margin-top:150px;
+}
+
+.hos-map{
+	width:100%;
+	margin-top:20px;
+}
+
+.contact_decor{
+	height:50vh;
+	width:100%;
+}
+
+.contact_decor h1{
+	color:blue;
+
+
+}
+
+#head{
+	color:#000;
+	font-weight:bold;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4 {
+  margin: 0px 0 0;
+}
+
+.contact_decor h1{
+	margin-top:-200px;
+	margin-left:30px;
+	font-weight:bold;
+	color:blue;
+}
+
+.contact_link h3{
+	font-weight:bold;
+}
+
+.contact_link p{
+	font-weight:bold;
+}
+
+.contact_link i{
+	font-weight:bold;
+}
+
+.img-rectangle{
+	height:400px;
+	width:100%;
+	padding: 0 0 0 0;
+}
+
+
+.stat{
+	padding-top:0px;
+	padding-bottom:10px;
+	background-color:#000;
+	color:#fff;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.stat-items h2{
+	font-weight: bold;
+	color:darkorange;
+}
+.stat i{
+	font-size:20px;
+}
+
+.footer-black{
+	background-color:#000;
+}
+
+.social-media p{
+	color:#fff;
+}
+
+.social-media h3{
+	color:#fff;
+}
+
+.service_footer{
+	color:#fff;
+}
+
+.service_footer p{
+	margin-bottom:20px;
+
+}
+.clinic_days p{
+	color:#fff;
+	margin-bottom: 20px;
+	padding:0 0px;
+}
+
+
+.clinic_days h3{
+	color:#fff;
+}
+
+
+
+
+
+ 
